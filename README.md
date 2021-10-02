@@ -12,3 +12,6 @@ This application is meant as helper if you are attempting to decompile map which
 
 # Bugs
 I didn't spend much time on this project which is why its output may lack accuracy but it was enough to work with for my purposes
+
+# Credits
+https://developer.valvesoftware.com/wiki/Source_BSP_File_Format
