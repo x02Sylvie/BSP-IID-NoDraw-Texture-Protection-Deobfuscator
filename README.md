@@ -1,5 +1,5 @@
 # BSP-IID-NoDraw-Texture-Protection-Deobfuscator
-Rough proof-of-concept of reversing one of source engine bsp map obfuscation methods.
+Rough proof-of-concept of reversing one of source engine map obfuscation methods.
 
 ## Information
 This application is meant as helper if you are attempting to decompile map which uses NoDraw IID obfsucation (every texture being nodraw or some other texture).
